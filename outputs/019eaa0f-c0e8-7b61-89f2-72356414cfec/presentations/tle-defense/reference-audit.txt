@@ -1,0 +1,19 @@
+Reference deck audit:
+- 15-slide classroom defense deck about WISDM human activity recognition.
+- Macro style: white background, cyan-blue top header band, cyan-blue bottom footer band, orange vertical title accent, simple page number centered in footer.
+- Common layouts:
+  - cover with large orange title and blue wave/footer
+  - title + left explanatory bullets + right visual/table
+  - title + full-width chart/table evidence
+  - closing thank-you page
+- Strengths to borrow:
+  - clear academic-report structure
+  - page numbers and consistent title bar
+  - simple color coding, mostly blue with orange accent
+- Weak spots not copied:
+  - some dense body text
+  - repeated generic bullet slides
+  - small crowded figures
+
+Decision:
+- Use the deck as visual reference, not as an exact template. Build new editable slides with a cleaner data-story rhythm.

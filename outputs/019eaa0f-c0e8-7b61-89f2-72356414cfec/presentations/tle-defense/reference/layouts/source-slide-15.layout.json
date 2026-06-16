@@ -1,0 +1,96 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/7y1kre1w",
+    "id": "7y1kre1w",
+    "slide": 16,
+    "layoutId": "/ppt/slideLayouts/slideLayout5.xml",
+    "layoutName": "master-page3",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster2.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1058.33,
+      "height": 595.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "LibreOffice",
+    "colors": {
+      "accent1": "#18A303",
+      "accent2": "#0369A3",
+      "accent3": "#A33E03",
+      "accent4": "#8E03A3",
+      "accent5": "#C99C00",
+      "accent6": "#C9211E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#000000",
+      "lt2": "#FFFFFF",
+      "hlink": "#0000EE",
+      "folHlink": "#551A8B"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Arial",
+        "eastAsianTypeface": "DejaVu Sans",
+        "complexScriptTypeface": "DejaVu Sans"
+      },
+      "minorFont": {
+        "latinTypeface": "Arial",
+        "eastAsianTypeface": "DejaVu Sans",
+        "complexScriptTypeface": "DejaVu Sans"
+      }
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout5.xml",
+      "name": "master-page3",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster2.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster2.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/wval87ed",
+      "id": "1",
+      "name": "图片 102",
+      "bbox": [
+        0,
+        -11.94,
+        1058.27,
+        607.22
+      ],
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "/ppt/media/image20.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 85922
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image20.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 85922
+      }
+    }
+  ],
+  "composeRuns": []
+}

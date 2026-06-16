@@ -1,0 +1,42 @@
+Slide size: 1280x720.
+
+Visual system:
+- White background.
+- Cyan-blue top header band and footer band borrowed from the reference deck.
+- Orange-red vertical accent beside titles.
+- Page number centered in the footer.
+
+Typography:
+- Chinese/UI sans: PingFang SC, Microsoft YaHei, Arial fallback.
+- Cover title 42-52px, body slide title 24-30px, body text 17-24px, footer 11px.
+
+Palette:
+- Main blue: #08A8DC
+- Light blue: #78D5EF
+- Deep blue: #1D5E8C
+- Accent orange: #F05A28
+- Body text: #222831
+- Muted text: #607080
+- Light panel: #F4F8FB
+
+Chart/table grammar:
+- Use direct labels where possible.
+- Use blue for LEO/MEO baseline evidence and orange for GEO or warning/long-tail emphasis.
+- Tables use dark-blue header, light row separators, no heavy grid.
+
+Footer/source grammar:
+- Bottom bar with centered page number.
+- Short source note left above footer only when needed.
+
+Allowed layout families:
+- cover with metric rail
+- title + evidence table
+- left method text + right diagram
+- full-width figure with callout rail
+- split figure + compact table
+- conclusion grid
+
+Banned motifs:
+- decorative icons without data meaning
+- invented official logos or satellite brand marks
+- dense paragraphs that duplicate the report

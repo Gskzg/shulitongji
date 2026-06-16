@@ -1,0 +1,1329 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/j9ormg",
+    "id": "j9ormg",
+    "slide": 5,
+    "layoutId": "746a77ab-08d6-474b-b423-2d3284b8185b",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ac4712e0-b97b-4e0d-8a11-dad0de981034",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "746a77ab-08d6-474b-b423-2d3284b8185b",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ac4712e0-b97b-4e0d-8a11-dad0de981034",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ac4712e0-b97b-4e0d-8a11-dad0de981034",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpg3ex0n",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xczed8v6",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#08A8DC"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8v6psfil",
+      "id": "3",
+      "bbox": [
+        960,
+        0,
+        320,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#78D5EF"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyxobm58",
+      "id": "4",
+      "bbox": [
+        40,
+        13,
+        5,
+        32
+      ],
+      "geometry": "rect",
+      "fillColor": "#F05A28"
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qd4vmtwr",
+      "id": "5",
+      "bbox": [
+        56,
+        12,
+        850,
+        34
+      ],
+      "geometry": "rect",
+      "text": "原理三：从误差样本到统计量、增长律与检验",
+      "textPreview": "原理三：从误差样本到统计量、增长律与检验",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang SC",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "原理三：从误差样本到统计量、增长律与检验"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "原理三：从误差样本到统计量、增长律与检验",
+          "runs": [
+            {
+              "index": 1,
+              "text": "原理三：从误差样本到统计量、增长律与检验",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4nap4r6",
+      "id": "6",
+      "bbox": [
+        0,
+        668,
+        1280,
+        52
+      ],
+      "geometry": "rect",
+      "fillColor": "#78D5EF"
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jqh0fep",
+      "id": "7",
+      "bbox": [
+        0,
+        668,
+        930,
+        52
+      ],
+      "geometry": "rect",
+      "fillColor": "#08A8DC"
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fmlkjm1c",
+      "id": "8",
+      "bbox": [
+        610,
+        681,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "5",
+      "textPreview": "5",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "PingFang SC",
+        "color": "#222831",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "5"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "5",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "PingFang SC",
+            "color": "#222831",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "5",
+              "fontSize": 15,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1orytsv",
+      "id": "9",
+      "bbox": [
+        40,
+        635,
+        420,
+        20
+      ],
+      "geometry": "rect",
+      "text": "TLE/SGP4 轨道预报误差统计分析",
+      "textPreview": "TLE/SGP4 轨道预报误差统计分析",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "PingFang SC",
+        "color": "#607080",
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TLE/SGP4 轨道预报误差统计分析"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TLE/SGP4 轨道预报误差统计分析",
+          "runs": [
+            {
+              "index": 1,
+              "text": "TLE/SGP4 轨道预报误差统计分析",
+              "fontSize": 11,
+              "typeface": "PingFang SC",
+              "color": "#607080"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nap4r65",
+      "id": "10",
+      "bbox": [
+        74,
+        94,
+        1060,
+        30
+      ],
+      "geometry": "rect",
+      "text": "对每个轨道类型 g 和预报时长 h，先形成误差样本集 D_{g,h}，再估计统计量和不确定性。",
+      "textPreview": "对每个轨道类型 g 和预报时长 h，先形成误差样本集 D_{g,h}，再估计统计量和不确定性。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "PingFang SC",
+        "color": "#222831",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "对每个轨道类型 g 和预报时长 h，先形成误差样本集 D_{g,h}，再估计统计量和不确定性。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "对每个轨道类型 g 和预报时长 h，先形成误差样本集 D_{g,h}，再估计统计量和不确定性。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "对每个轨道类型 g 和预报时长 h，先形成误差样本集 D_{g,h}，再估计统计量和不确定性。",
+              "fontSize": 21,
+              "typeface": "PingFang SC",
+              "color": "#222831",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t83itgfm",
+      "id": "11",
+      "bbox": [
+        82,
+        146,
+        1040,
+        410
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8E6EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhk3q5o7",
+      "id": "12",
+      "bbox": [
+        603.25,
+        172,
+        1.5,
+        354
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E6EF"
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2hwfyxo",
+      "id": "13",
+      "bbox": [
+        110,
+        351.25,
+        982,
+        1.5
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E6EF"
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4byhgn29",
+      "id": "14",
+      "bbox": [
+        112,
+        177,
+        12,
+        12
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#1D5E8C"
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twra5gbq",
+      "id": "15",
+      "bbox": [
+        136,
+        172,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "A. 误差样本与量级统计",
+      "textPreview": "A. 误差样本与量级统计",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#1D5E8C",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A. 误差样本与量级统计"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A. 误差样本与量级统计",
+          "runs": [
+            {
+              "index": 1,
+              "text": "A. 误差样本与量级统计",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#1D5E8C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m58z25kb",
+      "id": "16",
+      "bbox": [
+        136,
+        210,
+        420,
+        28
+      ],
+      "geometry": "rect",
+      "text": "D_{g,h} = {E_{s,i,h} | orbit(s)=g}",
+      "textPreview": "D_{g,h} = {E_{s,i,h} | orbit(s)=g}",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#1D5E8C",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "D_{g,h} = {E_{s,i,h} | orbit(s)=g}"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "D_{g,h} = {E_{s,i,h} | orbit(s)=g}",
+          "runs": [
+            {
+              "index": 1,
+              "text": "D_{g,h} = {E_{s,i,h} | orbit(s)=g}",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#1D5E8C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "17",
+      "bbox": [
+        136,
+        248,
+        410,
+        50
+      ],
+      "geometry": "rect",
+      "text": "median(D)、RMSE = √(n⁻¹ΣE²)、q₀.₉₅\n中位数刻画典型误差；RMSE 和 q₀.₉₅刻画长尾风险。",
+      "textPreview": "median(D)、RMSE = √(n⁻¹ΣE²)、q₀.₉₅ | 中位数刻画典型误差；RMSE 和 q₀.₉₅刻画长尾风险。",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "fontSize": 14.51,
+        "typeface": "PingFang SC",
+        "color": "#222831",
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "median(D)、RMSE = √(n⁻¹ΣE²)、q₀.₉₅"
+          },
+          {
+            "index": 2,
+            "text": "中位数刻画典型误差；RMSE 和 q₀.₉₅刻画长尾风险。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "median(D)、RMSE = √(n⁻¹ΣE²)、q₀.₉₅",
+          "lineSpacingPercent": 108000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "median(D)、RMSE = √(n⁻¹ΣE²)、q₀.₉₅",
+              "fontSize": 14.51,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "中位数刻画典型误差；RMSE 和 q₀.₉₅刻画长尾风险。",
+          "lineSpacingPercent": 108000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "中位数刻画典型误差；RMSE 和 q₀.₉₅刻画长尾风险。",
+              "fontSize": 14.51,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "18",
+      "bbox": [
+        636,
+        177,
+        12,
+        12
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F05A28"
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "19",
+      "bbox": [
+        660,
+        172,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "B. 误差增长律",
+      "textPreview": "B. 误差增长律",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#F05A28",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "B. 误差增长律"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "B. 误差增长律",
+          "runs": [
+            {
+              "index": 1,
+              "text": "B. 误差增长律",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#F05A28",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xkf6dcbu",
+      "id": "20",
+      "bbox": [
+        660,
+        210,
+        420,
+        28
+      ],
+      "geometry": "rect",
+      "text": "m_g(h)=median(D_{g,h}) = a_g h^{b_g}",
+      "textPreview": "m_g(h)=median(D_{g,h}) = a_g h^{b_g}",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#1D5E8C",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "m_g(h)=median(D_{g,h}) = a_g h^{b_g}"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "m_g(h)=median(D_{g,h}) = a_g h^{b_g}",
+          "runs": [
+            {
+              "index": 1,
+              "text": "m_g(h)=median(D_{g,h}) = a_g h^{b_g}",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#1D5E8C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zidonyd",
+      "id": "21",
+      "bbox": [
+        660,
+        248,
+        410,
+        50
+      ],
+      "geometry": "rect",
+      "text": "log m_g(h)=log a_g + b_g log h\nb_g > 1 表示短期误差随时长超线性增长。",
+      "textPreview": "log m_g(h)=log a_g + b_g log h | b_g > 1 表示短期误差随时长超线性增长。",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "fontSize": 14.51,
+        "typeface": "PingFang SC",
+        "color": "#222831",
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "log m_g(h)=log a_g + b_g log h"
+          },
+          {
+            "index": 2,
+            "text": "b_g > 1 表示短期误差随时长超线性增长。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "log m_g(h)=log a_g + b_g log h",
+          "lineSpacingPercent": 108000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "log m_g(h)=log a_g + b_g log h",
+              "fontSize": 14.51,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "b_g > 1 表示短期误差随时长超线性增长。",
+          "lineSpacingPercent": 108000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "b_g > 1 表示短期误差随时长超线性增长。",
+              "fontSize": 14.51,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fepkzupw",
+      "id": "22",
+      "bbox": [
+        112,
+        383,
+        12,
+        12
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#08A8DC"
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mtwra5gb",
+      "id": "23",
+      "bbox": [
+        136,
+        378,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "C. Bootstrap / BCa 区间",
+      "textPreview": "C. Bootstrap / BCa 区间",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#08A8DC",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "C. Bootstrap / BCa 区间"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "C. Bootstrap / BCa 区间",
+          "runs": [
+            {
+              "index": 1,
+              "text": "C. Bootstrap / BCa 区间",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#08A8DC",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3ylc7u",
+      "id": "24",
+      "bbox": [
+        136,
+        416,
+        420,
+        28
+      ],
+      "geometry": "rect",
+      "text": "D*_{g,h,b} ~ resample(D_{g,h}),  θ*_b=f(D*)",
+      "textPreview": "D*_{g,h,b} ~ resample(D_{g,h}),  θ*_b=f(D*)",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#1D5E8C",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "D*_{g,h,b} ~ resample(D_{g,h}),  θ*_b=f(D*)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "D*_{g,h,b} ~ resample(D_{g,h}),  θ*_b=f(D*)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "D*_{g,h,b} ~ resample(D_{g,h}),  θ*_b=f(D*)",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#1D5E8C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r65wjud",
+      "id": "25",
+      "bbox": [
+        136,
+        454,
+        410,
+        50
+      ],
+      "geometry": "rect",
+      "text": "CI_pct=[q₂.₅%, q₉₇.₅%]；CI_BCa 修正偏差和偏态\n用于均值、中位数、RMSE 等统计量的不确定性估计。",
+      "textPreview": "CI_pct=[q₂.₅%, q₉₇.₅%]；CI_BCa 修正偏差和偏态 | 用于均值、中位数、RMSE 等统计量的不确定性估计。",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "fontSize": 14.51,
+        "typeface": "PingFang SC",
+        "color": "#222831",
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CI_pct=[q₂.₅%, q₉₇.₅%]；CI_BCa 修正偏差和偏态"
+          },
+          {
+            "index": 2,
+            "text": "用于均值、中位数、RMSE 等统计量的不确定性估计。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CI_pct=[q₂.₅%, q₉₇.₅%]；CI_BCa 修正偏差和偏态",
+          "lineSpacingPercent": 108000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "CI_pct=[q₂.₅%, q₉₇.₅%]；CI_BCa 修正偏差和偏态",
+              "fontSize": 14.51,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "用于均值、中位数、RMSE 等统计量的不确定性估计。",
+          "lineSpacingPercent": 108000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "用于均值、中位数、RMSE 等统计量的不确定性估计。",
+              "fontSize": 14.51,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6dcbulw",
+      "id": "26",
+      "bbox": [
+        636,
+        383,
+        12,
+        12
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#2B9C6A"
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlkjm1cf",
+      "id": "27",
+      "bbox": [
+        660,
+        378,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "D. 轨道差异与协方差",
+      "textPreview": "D. 轨道差异与协方差",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#2B9C6A",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "D. 轨道差异与协方差"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "D. 轨道差异与协方差",
+          "runs": [
+            {
+              "index": 1,
+              "text": "D. 轨道差异与协方差",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#2B9C6A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0nuxc3y",
+      "id": "28",
+      "bbox": [
+        660,
+        416,
+        420,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Σ_{g,h}=Cov(e_RIC),   Σ(h)=ΦΣ₀Φᵀ+Q",
+      "textPreview": "Σ_{g,h}=Cov(e_RIC),   Σ(h)=ΦΣ₀Φᵀ+Q",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#1D5E8C",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Σ_{g,h}=Cov(e_RIC),   Σ(h)=ΦΣ₀Φᵀ+Q"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Σ_{g,h}=Cov(e_RIC),   Σ(h)=ΦΣ₀Φᵀ+Q",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Σ_{g,h}=Cov(e_RIC),   Σ(h)=ΦΣ₀Φᵀ+Q",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#1D5E8C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fu18jqh",
+      "id": "29",
+      "bbox": [
+        660,
+        454,
+        410,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Levene 检查方差齐性；Kruskal-Wallis 检验三组差异；\nMann-Whitney U 进行两两比较。",
+      "textPreview": "Levene 检查方差齐性；Kruskal-Wallis 检验三组差异； | Mann-Whitney U 进行两两比较。",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "fontSize": 14.51,
+        "typeface": "PingFang SC",
+        "color": "#222831",
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Levene 检查方差齐性；Kruskal-Wallis 检验三组差异；"
+          },
+          {
+            "index": 2,
+            "text": "Mann-Whitney U 进行两两比较。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Levene 检查方差齐性；Kruskal-Wallis 检验三组差异；",
+          "lineSpacingPercent": 108000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "Levene 检查方差齐性；Kruskal-Wallis 检验三组差异；",
+              "fontSize": 14.51,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Mann-Whitney U 进行两两比较。",
+          "lineSpacingPercent": 108000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "Mann-Whitney U 进行两两比较。",
+              "fontSize": 14.51,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8v6psf",
+      "id": "30",
+      "bbox": [
+        206,
+        578,
+        760,
+        34
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FAFDFF",
+      "lineColor": "#D8E6EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7y1kre1w",
+      "id": "31",
+      "bbox": [
+        226,
+        585,
+        720,
+        18
+      ],
+      "geometry": "rect",
+      "text": "符号：g∈{LEO,MEO,GEO}，h∈{1,3,7}天，s 为目标，i 为旧 TLE 历元，b 为 Bootstrap 重采样编号。",
+      "textPreview": "符号：g∈{LEO,MEO,GEO}，h∈{1,3,7}天，s 为目标，i 为旧 TLE 历元，b 为 Bootstrap 重采样编号。",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "fontSize": 14.51,
+        "typeface": "PingFang SC",
+        "color": "#607080",
+        "alignment": "center",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "符号：g∈{LEO,MEO,GEO}，h∈{1,3,7}天，s 为目标，i 为旧 TLE 历元，b 为 Bootstrap 重采样编号。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "符号：g∈{LEO,MEO,GEO}，h∈{1,3,7}天，s 为目标，i 为旧 TLE 历元，b 为 Bootstrap 重采样编号。",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "PingFang SC",
+            "color": "#607080",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "符号：g∈{LEO,MEO,GEO}，h∈{1,3,7}天，s 为目标，i 为旧 TLE 历元，b 为 Bootstrap 重采样编号。",
+              "fontSize": 14.51,
+              "typeface": "PingFang SC",
+              "color": "#607080"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

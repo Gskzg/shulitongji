@@ -1,0 +1,25 @@
+Planned deck rhythm:
+1. Cover with wide white field and blue bottom band.
+2. Problem/contribution split layout.
+3. Data/sample three-column evidence.
+4. Method pipeline diagram.
+5. Summary statistics table.
+6. Distribution figures, two proof objects.
+7. Growth curve with parameter rail.
+8. Bootstrap figure with interval rail.
+9. Statistical test matrix.
+10. Covariance propagation concept.
+11. Discussion and limitations matrix.
+12. Closing takeaways and Q&A.
+
+Macro-layout variety:
+- cover
+- split text/diagram
+- metric rail
+- process flow
+- table-heavy
+- full-figure
+- figure+parameter rail
+- test matrix
+- formula/concept slide
+- conclusion slide

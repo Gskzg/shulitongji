@@ -1,0 +1,117 @@
+{"kind":"slide","id":"sl/2x4nap4r","slide":2,"title":"WISDM 人体动作识别实验报告","textShapes":3}
+{"kind":"textbox","id":"sh/9knih4by","slide":2,"textChars":17,"textLines":2}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":2,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":2,"textChars":15,"textLines":1}
+{"kind":"slide","id":"sl/pg3ex0nu","slide":3,"title":"实验背景与目标","textShapes":3}
+{"kind":"textbox","id":"sh/65wjudg7","slide":3,"textChars":8,"textLines":2}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":3,"textChars":117,"textLines":3}
+{"kind":"shape","id":"sh/obm58z25","slide":3,"name":"矩形 31","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":3,"name":"矩形 33","bbox":[64.03,487.86,5.78,44.07]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":3,"textChars":1,"textLines":1}
+{"kind":"image","id":"im/gfmlkjm1","slide":3,"name":"图片 32","bbox":[545.65,137.69,445,333.73]}
+{"kind":"slide","id":"sl/s72x4nap","slide":4,"title":"数据集核心规格","textShapes":4}
+{"kind":"textbox","id":"sh/4nap4r65","slide":4,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":4,"textChars":70,"textLines":4}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":4,"name":"矩形 36","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":4,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":4,"name":"矩形 39","bbox":[64.03,487.9,5.78,44.07]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":4,"textChars":1,"textLines":1}
+{"kind":"table","id":"tb/ytsvu9kn","slide":4,"name":"表格 38","rows":4,"cols":2,"preview":"编码 | 动作 (Activity)","bbox":[616.93,221.86,312.26,168.57]}
+{"kind":"slide","id":"sl/val87ed8","slide":5,"title":"分窗与特征提取","textShapes":3}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":5,"textChars":7,"textLines":1}
+{"kind":"shape","id":"sh/gn29gr2p","slide":5,"name":"矩形 41","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"shape","id":"sh/58z25kb6","slide":5,"name":"矩形 42","bbox":[64.03,487.9,5.78,44.07]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":5,"textChars":153,"textLines":10}
+{"kind":"textbox","id":"sh/je9cvixc","slide":5,"textChars":1,"textLines":1}
+{"kind":"image","id":"im/8nqxs72x","slide":5,"name":"图片 44","bbox":[162.97,221.97,201,51.21]}
+{"kind":"image","id":"im/j2t83itg","slide":5,"name":"图片 45","bbox":[583.37,83,324.06,431.58]}
+{"kind":"slide","id":"sl/mlkjm1cf","slide":6,"title":"分类架构与验证","textShapes":4}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":6,"textChars":7,"textLines":1}
+{"kind":"shape","id":"sh/wfyxobm5","slide":6,"name":"矩形 47","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":6,"name":"矩形 48","bbox":[64.03,487.9,5.78,44.07]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":6,"textChars":72,"textLines":4}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":6,"textChars":60,"textLines":4}
+{"kind":"textbox","id":"sh/dg7adsji","slide":6,"textChars":1,"textLines":1}
+{"kind":"slide","id":"sl/58z25kb6","slide":7,"title":"基础实验：5类动作 (加速度计)","textShapes":4}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":7,"textChars":16,"textLines":1}
+{"kind":"shape","id":"sh/eloj2t83","slide":7,"name":"矩形 52","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":7,"name":"矩形 53","bbox":[64.03,487.9,5.78,44.07]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":7,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":7,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":7,"textChars":7,"textLines":1}
+{"kind":"image","id":"im/neloj2t8","slide":7,"name":"图形 55","bbox":[54.77,102.95,462.86,264.83]}
+{"kind":"image","id":"im/czed8v6p","slide":7,"name":"图形 56","bbox":[531.74,270.67,244.85,142.52]}
+{"kind":"image","id":"im/5kb6xkf6","slide":7,"name":"图形 57","bbox":[531.74,113.62,244.85,142.52]}
+{"kind":"image","id":"im/yhgn29gr","slide":7,"name":"图形 58","bbox":[767.15,80.66,244.85,139.61]}
+{"kind":"image","id":"im/n29gr2p8","slide":7,"name":"图形 59","bbox":[770.57,220.43,245.67,145.34]}
+{"kind":"image","id":"im/fyxobm58","slide":7,"name":"图形 60","bbox":[773.58,370.31,245.67,142.52]}
+{"kind":"slide","id":"sl/0z61032l","slide":8,"title":"基础实验：分类结果","textShapes":3}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":8,"name":"矩形 4","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":8,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/je9cvixc","slide":8,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":8,"textChars":34,"textLines":1}
+{"kind":"image","id":"im/bm58z25k","slide":8,"name":"图片 6","bbox":[150.06,213.76,758.21,138.94]}
+{"kind":"slide","id":"sl/fu18jqh0","slide":9,"title":"基础实验：深度结果分析","textShapes":3}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":9,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/neloj2t8","slide":9,"name":"矩形 62","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"shape","id":"sh/cbulwval","slide":9,"name":"矩形 63","bbox":[64.03,487.9,5.78,44.07]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":9,"textChars":143,"textLines":4}
+{"kind":"textbox","id":"sh/judg7ads","slide":9,"textChars":1,"textLines":1}
+{"kind":"chart","id":"ch/65wjudg7","slide":9,"name":"图表 65","chartType":"bar","title":"加速度模长（各动作对比）","bbox":[528,169.51,512.69,288.38]}
+{"kind":"slide","id":"sl/qh0fepkz","slide":10,"title":"进阶实验：实验方式","textShapes":5}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":10,"name":"矩形 3","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":10,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":10,"textChars":45,"textLines":1}
+{"kind":"textbox","id":"sh/vy90je9c","slide":10,"textChars":53,"textLines":1}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":10,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/y90je9cv","slide":10,"textChars":5,"textLines":1}
+{"kind":"image","id":"im/eloj2t83","slide":10,"name":"图片 11","bbox":[216.81,301.35,732.47,126.61]}
+{"kind":"slide","id":"sl/29gr2p8n","slide":11,"title":"进阶实验：KNN 分类器效能","textShapes":5}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":11,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":11,"name":"矩形 67","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":11,"name":"矩形 68","bbox":[64.03,487.9,5.78,44.07]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":11,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":11,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/gvy90je9","slide":11,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":11,"textChars":84,"textLines":2}
+{"kind":"chart","id":"ch/gfmlkjm1","slide":11,"name":"图表 72","chartType":"line","title":"分类器每个数据的 F1 值","bbox":[88.95,109.52,388.2,218.34]}
+{"kind":"image","id":"im/wb2hwfyx","slide":11,"name":"图片 70","bbox":[587.32,132.01,321.3,162.67]}
+{"kind":"slide","id":"sl/re1w7mp0","slide":12,"title":"挑战实验：5类动作融合提升","textShapes":5}
+{"kind":"textbox","id":"sh/twra5gbq","slide":12,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/4byhgn29","slide":12,"name":"矩形 76","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"shape","id":"sh/bm58z25k","slide":12,"name":"矩形 77","bbox":[64.03,487.9,5.78,44.07]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":12,"textChars":10,"textLines":2}
+{"kind":"textbox","id":"sh/4zidonyd","slide":12,"textChars":62,"textLines":1}
+{"kind":"textbox","id":"sh/vahoza1g","slide":12,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/6tovahoz","slide":12,"textChars":45,"textLines":1}
+{"kind":"table","id":"tb/tgfmlkjm","slide":12,"name":"表格 80","rows":3,"cols":3,"preview":"配置 | 特征维 | 准确率","bbox":[440.3,152.03,269.71,170.49]}
+{"kind":"image","id":"im/al87ed8b","slide":12,"name":"图片 78","bbox":[48.34,139.24,416.81,312.6]}
+{"kind":"image","id":"im/sfil0rqd","slide":12,"name":"图片 82","bbox":[729.91,152.03,315.7,177.56]}
+{"kind":"slide","id":"sl/4fu18jqh","slide":13,"title":"挑战实验：8类复杂动作全景","textShapes":3}
+{"kind":"textbox","id":"sh/knih4byh","slide":13,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/d8bat47y","slide":13,"name":"矩形 84","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":13,"name":"矩形 85","bbox":[64.03,487.9,5.78,44.07]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":13,"textChars":41,"textLines":1}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":13,"textChars":2,"textLines":1}
+{"kind":"table","id":"tb/65wjudg7","slide":13,"name":"表格 86","rows":3,"cols":5,"preview":"传感器设置 | 窗口数 | GNB 准确率 | KNN 准确率 | NC 准确率","bbox":[70.6,97.04,409.21,137.88]}
+{"kind":"image","id":"im/sneloj2t","slide":13,"name":"图片 88","bbox":[104.46,275.73,427.35,240.38]}
+{"kind":"image","id":"im/l87ed8ba","slide":13,"name":"图片 89","bbox":[571.8,292.15,416.54,234.29]}
+{"kind":"image","id":"im/ahoza1gv","slide":13,"name":"图形 90","bbox":[559.57,84.79,460.91,212.87]}
+{"kind":"slide","id":"sl/lwval87e","slide":14,"title":"复杂动作混淆分析","textShapes":4}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":14,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/z25kb6xk","slide":14,"name":"矩形 92","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"shape","id":"sh/ovahoza1","slide":14,"name":"矩形 93","bbox":[64.03,487.9,5.78,44.07]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":14,"textChars":131,"textLines":5}
+{"kind":"textbox","id":"sh/vahoza1g","slide":14,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":14,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/r65wjudg","slide":14,"name":"图片 94","bbox":[529.32,133.53,506.49,272.81]}
+{"kind":"slide","id":"sl/25kb6xkf","slide":15,"title":"讨论与未来改进","textShapes":3}
+{"kind":"textbox","id":"sh/nap4r65w","slide":15,"textChars":7,"textLines":1}
+{"kind":"shape","id":"sh/upwb2hwf","slide":15,"name":"矩形 98","bbox":[54.77,15.57,5.78,44.07]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":15,"name":"矩形 99","bbox":[64.03,487.9,5.78,44.07]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":15,"textChars":82,"textLines":6}
+{"kind":"textbox","id":"sh/dcbulwva","slide":15,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/8z25kb6x","slide":15,"name":"图片 101","bbox":[542.25,134.59,457.93,343.45]}
+{"kind":"slide","id":"sl/7y1kre1w","slide":16,"title":"Slide 16","textShapes":0}
+{"kind":"image","id":"im/wval87ed","slide":16,"name":"图片 102","bbox":[0,-11.94,1058.27,607.22]}
+{"kind":"notice","message":"Truncated: omitted 0 lines. Increase maxChars or narrow target."}

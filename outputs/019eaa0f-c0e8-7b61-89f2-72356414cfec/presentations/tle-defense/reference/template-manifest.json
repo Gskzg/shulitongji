@@ -1,0 +1,324 @@
+{
+  "sourcePptx": "/Users/macbook/Documents/数理统计大作业/答辩.pptx",
+  "workspace": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense",
+  "outDir": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference",
+  "generatedAt": "2026-06-14T08:45:20.795Z",
+  "slideCount": 15,
+  "slideArtifacts": [
+    {
+      "slide": 1,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-01.png",
+      "previewRelativePath": "reference/source-slides/source-slide-01.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-01.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-01.layout.json"
+    },
+    {
+      "slide": 2,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-02.png",
+      "previewRelativePath": "reference/source-slides/source-slide-02.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-02.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-02.layout.json"
+    },
+    {
+      "slide": 3,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-03.png",
+      "previewRelativePath": "reference/source-slides/source-slide-03.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-03.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-03.layout.json"
+    },
+    {
+      "slide": 4,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-04.png",
+      "previewRelativePath": "reference/source-slides/source-slide-04.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-04.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-04.layout.json"
+    },
+    {
+      "slide": 5,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-05.png",
+      "previewRelativePath": "reference/source-slides/source-slide-05.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-05.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-05.layout.json"
+    },
+    {
+      "slide": 6,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-06.png",
+      "previewRelativePath": "reference/source-slides/source-slide-06.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-06.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-06.layout.json"
+    },
+    {
+      "slide": 7,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-07.png",
+      "previewRelativePath": "reference/source-slides/source-slide-07.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-07.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-07.layout.json"
+    },
+    {
+      "slide": 8,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-08.png",
+      "previewRelativePath": "reference/source-slides/source-slide-08.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-08.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-08.layout.json"
+    },
+    {
+      "slide": 9,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-09.png",
+      "previewRelativePath": "reference/source-slides/source-slide-09.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-09.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-09.layout.json"
+    },
+    {
+      "slide": 10,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-10.png",
+      "previewRelativePath": "reference/source-slides/source-slide-10.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-10.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-10.layout.json"
+    },
+    {
+      "slide": 11,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-11.png",
+      "previewRelativePath": "reference/source-slides/source-slide-11.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-11.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-11.layout.json"
+    },
+    {
+      "slide": 12,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-12.png",
+      "previewRelativePath": "reference/source-slides/source-slide-12.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-12.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-12.layout.json"
+    },
+    {
+      "slide": 13,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-13.png",
+      "previewRelativePath": "reference/source-slides/source-slide-13.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-13.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-13.layout.json"
+    },
+    {
+      "slide": 14,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-14.png",
+      "previewRelativePath": "reference/source-slides/source-slide-14.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-14.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-14.layout.json"
+    },
+    {
+      "slide": 15,
+      "previewPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/source-slides/source-slide-15.png",
+      "previewRelativePath": "reference/source-slides/source-slide-15.png",
+      "layoutPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/layouts/source-slide-15.layout.json",
+      "layoutRelativePath": "reference/layouts/source-slide-15.layout.json"
+    }
+  ],
+  "inspectPath": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/template-inspect.ndjson",
+  "inspectRelativePath": "reference/template-inspect.ndjson",
+  "inspectTruncated": true,
+  "inspectMetadata": {
+    "revision": "isbcah",
+    "target": {
+      "id": "pr/zclcag"
+    },
+    "kind": {
+      "requested": "slide,textbox,shape,image,table,chart",
+      "tokens": [
+        "slide",
+        "textbox",
+        "shape",
+        "image",
+        "table",
+        "chart"
+      ]
+    },
+    "include": {
+      "tokens": []
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  },
+  "extractedMedia": [
+    {
+      "entry": "ppt/media/image2.jpeg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image2.jpeg",
+      "relativePath": "reference/assets/ppt/media/image2.jpeg",
+      "bytes": 159848
+    },
+    {
+      "entry": "ppt/media/image3.png",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image3.png",
+      "relativePath": "reference/assets/ppt/media/image3.png",
+      "bytes": 93465
+    },
+    {
+      "entry": "ppt/media/image4.svg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image4.svg",
+      "relativePath": "reference/assets/ppt/media/image4.svg",
+      "bytes": 10081
+    },
+    {
+      "entry": "ppt/media/image5.svg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image5.svg",
+      "relativePath": "reference/assets/ppt/media/image5.svg",
+      "bytes": 163308
+    },
+    {
+      "entry": "ppt/media/image6.svg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image6.svg",
+      "relativePath": "reference/assets/ppt/media/image6.svg",
+      "bytes": 163308
+    },
+    {
+      "entry": "ppt/media/image7.svg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image7.svg",
+      "relativePath": "reference/assets/ppt/media/image7.svg",
+      "bytes": 163307
+    },
+    {
+      "entry": "ppt/media/image11.jpeg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image11.jpeg",
+      "relativePath": "reference/assets/ppt/media/image11.jpeg",
+      "bytes": 133688
+    },
+    {
+      "entry": "ppt/media/image12.png",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image12.png",
+      "relativePath": "reference/assets/ppt/media/image12.png",
+      "bytes": 68101
+    },
+    {
+      "entry": "ppt/media/image8.svg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image8.svg",
+      "relativePath": "reference/assets/ppt/media/image8.svg",
+      "bytes": 163308
+    },
+    {
+      "entry": "ppt/media/image13.png",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image13.png",
+      "relativePath": "reference/assets/ppt/media/image13.png",
+      "bytes": 69938
+    },
+    {
+      "entry": "ppt/media/image14.png",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image14.png",
+      "relativePath": "reference/assets/ppt/media/image14.png",
+      "bytes": 33721
+    },
+    {
+      "entry": "ppt/media/image15.png",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image15.png",
+      "relativePath": "reference/assets/ppt/media/image15.png",
+      "bytes": 41294
+    },
+    {
+      "entry": "ppt/media/image16.png",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image16.png",
+      "relativePath": "reference/assets/ppt/media/image16.png",
+      "bytes": 41323
+    },
+    {
+      "entry": "ppt/media/image17.svg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image17.svg",
+      "relativePath": "reference/assets/ppt/media/image17.svg",
+      "bytes": 14356
+    },
+    {
+      "entry": "ppt/media/image18.png",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image18.png",
+      "relativePath": "reference/assets/ppt/media/image18.png",
+      "bytes": 94984
+    },
+    {
+      "entry": "ppt/media/image20.jpeg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image20.jpeg",
+      "relativePath": "reference/assets/ppt/media/image20.jpeg",
+      "bytes": 85922
+    },
+    {
+      "entry": "ppt/media/image10.jpeg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image10.jpeg",
+      "relativePath": "reference/assets/ppt/media/image10.jpeg",
+      "bytes": 118061
+    },
+    {
+      "entry": "ppt/media/image19.png",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image19.png",
+      "relativePath": "reference/assets/ppt/media/image19.png",
+      "bytes": 495271
+    },
+    {
+      "entry": "ppt/media/image1.jpeg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image1.jpeg",
+      "relativePath": "reference/assets/ppt/media/image1.jpeg",
+      "bytes": 46275
+    },
+    {
+      "entry": "ppt/media/image9.svg",
+      "path": "/Users/macbook/Documents/数理统计大作业/outputs/019eaa0f-c0e8-7b61-89f2-72356414cfec/presentations/tle-defense/reference/assets/ppt/media/image9.svg",
+      "relativePath": "reference/assets/ppt/media/image9.svg",
+      "bytes": 163309
+    }
+  ],
+  "fonts": [
+    "+mj-cs",
+    "+mj-ea",
+    "+mj-lt",
+    "+mn-cs",
+    "+mn-ea",
+    "+mn-lt",
+    "Angsana New",
+    "Arial",
+    "Cordia New",
+    "DaunPenh",
+    "DejaVu Sans",
+    "DokChampa",
+    "Ebrima",
+    "Estrangelo Edessa",
+    "Euphemia",
+    "Gautami",
+    "Iskoola Pota",
+    "Javanese Text",
+    "Kalinga",
+    "Kartika",
+    "Latha",
+    "Leelawadee UI",
+    "MV Boli",
+    "Mangal",
+    "Microsoft Himalaya",
+    "Microsoft JhengHei",
+    "Microsoft New Tai Lue",
+    "Microsoft Tai Le",
+    "Microsoft Uighur",
+    "Microsoft Yi Baiti",
+    "Mongolian Baiti",
+    "MoolBoran",
+    "Myanmar Text",
+    "Nirmala UI",
+    "Noto Serif",
+    "Nyala",
+    "Phagspa",
+    "Plantagenet Cherokee",
+    "Raavi",
+    "Segoe UI",
+    "Shruti",
+    "Sylfaen",
+    "Times New Roman",
+    "Tunga",
+    "Vrinda",
+    "Wingdings",
+    "文泉驿正黑",
+    "新細明體",
+    "游ゴシック",
+    "游ゴシック Light",
+    "等线",
+    "等线 Light",
+    "맑은 고딕"
+  ],
+  "packageParts": {
+    "mediaCount": 20,
+    "slideXmlCount": 15,
+    "chartCount": 2,
+    "tableSlideCount": 3
+  }
+}

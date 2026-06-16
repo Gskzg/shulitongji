@@ -1,0 +1,26 @@
+task mode: create
+primary deck-profile: engineering-platform
+secondary gates: appendix-heavy for statistical tables; template/reference awareness for the existing defense deck.
+required proof objects:
+- data/sample construction summary
+- SGP4 error computation method chain
+- 1/3/7 day error statistics
+- error growth fit
+- bootstrap confidence interval comparison
+- orbit-type significance tests
+- covariance propagation explanation
+source/asset requirements:
+- reports/final_report.md
+- outputs/tables/*.csv
+- outputs/figures/*.png
+- reference deck: 答辩.pptx, used as format/style reference only
+brand authenticity constraints:
+- no external logos or official marks are used
+- satellite/TLE theme is expressed through data, formulas, and simple diagrams only
+profile-specific QA gates:
+- formulas and units remain visible
+- chart pages have direct claim titles
+- figures are readable at 16:9 projection size
+- source paths and data period are stated
+known missing inputs:
+- presenter names are not provided, so the cover keeps a placeholder line.

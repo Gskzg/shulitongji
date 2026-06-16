@@ -1,0 +1,939 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/25kb6xkf",
+    "id": "25kb6xkf",
+    "slide": 15,
+    "layoutId": "/ppt/slideLayouts/slideLayout4.xml",
+    "layoutName": "1_Blue_Curve1",
+    "layoutType": "tx",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1058.33,
+      "height": 595.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "LibreOffice",
+    "colors": {
+      "accent1": "#18A303",
+      "accent2": "#0369A3",
+      "accent3": "#A33E03",
+      "accent4": "#8E03A3",
+      "accent5": "#C99C00",
+      "accent6": "#C9211E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#000000",
+      "lt2": "#FFFFFF",
+      "hlink": "#0000EE",
+      "folHlink": "#551A8B"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Arial",
+        "eastAsianTypeface": "DejaVu Sans",
+        "complexScriptTypeface": "DejaVu Sans"
+      },
+      "minorFont": {
+        "latinTypeface": "Arial",
+        "eastAsianTypeface": "DejaVu Sans",
+        "complexScriptTypeface": "DejaVu Sans"
+      }
+    },
+    "typefaces": [
+      "Arial",
+      "文泉驿正黑"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout4.xml",
+      "name": "1_Blue_Curve1",
+      "type": "tx",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/20",
+          "id": "20",
+          "name": "矩形 19",
+          "bbox": [
+            0,
+            0,
+            1057.93,
+            75.59
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "wrap": "none",
+            "autoFit": "none",
+            "insets": {
+              "top": 4.72,
+              "right": 9.45,
+              "bottom": 4.72,
+              "left": 9.45
+            }
+          },
+          "lineWidth": 1.89
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/21",
+          "id": "21",
+          "name": "矩形 20",
+          "bbox": [
+            0.34,
+            529.13,
+            1057.93,
+            66.29
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "wrap": "none",
+            "autoFit": "none",
+            "insets": {
+              "top": 4.72,
+              "right": 9.45,
+              "bottom": 4.72,
+              "left": 9.45
+            }
+          },
+          "lineWidth": 1.89
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/22",
+          "id": "22",
+          "name": "PlaceHolder 1",
+          "bbox": [
+            37.8,
+            18.9,
+            982.68,
+            50.19
+          ],
+          "geometry": "rect",
+          "text": "单击以编辑标题文本格式",
+          "textPreview": "单击以编辑标题文本格式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击以编辑标题文本格式",
+              "indent": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击以编辑标题文本格式",
+                  "fontSize": 44,
+                  "typeface": "Arial",
+                  "color": "#EEEEEE"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/23",
+          "id": "23",
+          "name": "PlaceHolder 2",
+          "bbox": [
+            37.8,
+            113.39,
+            982.68,
+            377.95
+          ],
+          "geometry": "rect",
+          "text": "点击以编辑提纲文本格式\n第二提纲级别\n第三提纲级别\n第四提纲级别\n第五提纲级别\n第六提纲级别\n第七提纲级别",
+          "textPreview": "点击以编辑提纲文本格式 | 第二提纲级别 | 第三提纲级别 | 第四提纲级别 | 第五提纲级别 | 第六提纲级别 | 第七提纲级别",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "verticalAlignment": "top",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "点击以编辑提纲文本格式",
+              "bulletCharacter": "",
+              "marginLeft": 432000,
+              "indent": -324000,
+              "spaceBefore": 1060,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "点击以编辑提纲文本格式",
+                  "fontSize": 32,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 864000,
+              "indent": -324000,
+              "spaceBefore": 850,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二提纲级别",
+                  "fontSize": 28,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 1296000,
+              "indent": -288000,
+              "spaceBefore": 635,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三提纲级别",
+                  "fontSize": 24,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 1728000,
+              "indent": -216000,
+              "spaceBefore": 422,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四提纲级别",
+                  "fontSize": 20,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 2160000,
+              "indent": -216000,
+              "spaceBefore": 210,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五提纲级别",
+                  "fontSize": 20,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 6,
+              "text": "第六提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 2592000,
+              "indent": -216000,
+              "spaceBefore": 210,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第六提纲级别",
+                  "fontSize": 20,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 7,
+              "text": "第七提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 3024000,
+              "indent": -216000,
+              "spaceBefore": 210,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第七提纲级别",
+                  "fontSize": 20,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/24",
+          "id": "24",
+          "name": "PlaceHolder 3",
+          "bbox": [
+            37.8,
+            548.03,
+            245.67,
+            37.8
+          ],
+          "geometry": "rect",
+          "text": "<日期/时间>",
+          "textPreview": "<日期/时间>",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "verticalAlignment": "top",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "<日期/时间>",
+              "indent": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "<日期/时间>",
+                  "fontSize": 18.67,
+                  "typeface": "Arial",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/25",
+          "id": "25",
+          "name": "PlaceHolder 4",
+          "bbox": [
+            359.06,
+            548.03,
+            340.16,
+            37.8
+          ],
+          "geometry": "rect",
+          "text": "<页脚>",
+          "textPreview": "<页脚>",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "verticalAlignment": "top",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "<页脚>",
+              "indent": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "<页脚>",
+                  "fontSize": 18.67,
+                  "typeface": "Arial",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/26",
+          "id": "26",
+          "name": "PlaceHolder 5",
+          "bbox": [
+            774.8,
+            548.03,
+            245.67,
+            37.8
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "verticalAlignment": "top",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "indent": 0,
+              "resolvedTextStyle": {
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›",
+                  "fontSize": 18.67,
+                  "typeface": "Arial",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nap4r65w",
+      "id": "98",
+      "name": "PlaceHolder 1",
+      "bbox": [
+        70.6,
+        6.88,
+        365.4,
+        57.94
+      ],
+      "geometry": "rect",
+      "text": "讨论与未来改进",
+      "textPreview": "讨论与未来改进",
+      "resolvedFontSize": 44,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 44,
+        "typeface": "Arial",
+        "color": "#EEEEEE",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "讨论与未来改进"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "讨论与未来改进",
+          "indent": 0,
+          "spaceBefore": 1191,
+          "spaceAfter": 992,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "讨论与未来改进",
+              "fontSize": 21.33,
+              "typeface": "Arial",
+              "color": "#EEEEEE",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "lineSpacingPercent": 90000
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upwb2hwf",
+      "id": "99",
+      "name": "矩形 98",
+      "bbox": [
+        54.77,
+        15.57,
+        5.78,
+        44.07
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "none",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.72,
+          "right": 9.45,
+          "bottom": 4.72,
+          "left": 9.45
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FF7B59",
+      "lineWidth": 1.89
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re1w7mp0",
+      "id": "100",
+      "name": "矩形 99",
+      "bbox": [
+        64.03,
+        487.9,
+        5.78,
+        44.07
+      ],
+      "rotation": 270,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "none",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.72,
+          "right": 9.45,
+          "bottom": 4.72,
+          "left": 9.45
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FF7B59",
+      "lineWidth": 1.89
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2t83itgf",
+      "id": "101",
+      "name": "文本框 100",
+      "bbox": [
+        37.87,
+        219.55,
+        484.5,
+        213.47
+      ],
+      "geometry": "rect",
+      "text": "传统 ML 的局限性\n当前方法高度依赖手工特征提取，对复杂动态过程的捕捉能力有限。\n改进： 引入 CNN/LSTM 深度模型。\n数据： 增加气压计或磁力计数据。\n\n",
+      "textPreview": "传统 ML 的局限性 | 当前方法高度依赖手工特征提取，对复杂动态过程的捕捉能力有限。 | 改进： 引入 CNN/LSTM 深度模型。 | 数据： 增加气压计或磁力计数据。 |  |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 14,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": " 传统 ML 的局限性"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": " "
+          },
+          {
+            "index": 5,
+            "text": "当前方法高度依赖手工特征提取，对复杂动态过程的捕捉能力"
+          },
+          {
+            "index": 6,
+            "text": "有限。"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": " 改进： 引入 CNN/LSTM 深度模型。"
+          },
+          {
+            "index": 9,
+            "text": ""
+          },
+          {
+            "index": 10,
+            "text": " 数据： 增加气压计或磁力计数据。"
+          },
+          {
+            "index": 11,
+            "text": ""
+          },
+          {
+            "index": 12,
+            "text": ""
+          },
+          {
+            "index": 13,
+            "text": ""
+          },
+          {
+            "index": 14,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "传统 ML 的局限性",
+          "bulletCharacter": "",
+          "marginLeft": 432000,
+          "indent": -324000,
+          "spaceBefore": 1191,
+          "spaceAfter": 992,
+          "runs": [
+            {
+              "index": 1,
+              "text": "传统 ",
+              "fontSize": 16,
+              "typeface": "文泉驿正黑",
+              "color": "#333333",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "ML ",
+              "fontSize": 16,
+              "typeface": "文泉驿正黑",
+              "color": "#333333",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "的局限性",
+              "fontSize": 16,
+              "typeface": "文泉驿正黑",
+              "color": "#333333",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "当前方法高度依赖手工特征提取，对复杂动态过程的捕捉能力有限。",
+          "bulletCharacter": "",
+          "marginLeft": 432000,
+          "indent": -324000,
+          "spaceBefore": 1060,
+          "runs": [
+            {
+              "index": 1,
+              "text": "当前方法高度依赖手工特征提取，对复杂动态过程的捕捉能力有限。",
+              "fontSize": 16,
+              "typeface": "文泉驿正黑",
+              "color": "#333333"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "改进： 引入 CNN/LSTM 深度模型。",
+          "bulletCharacter": "",
+          "marginLeft": 432000,
+          "indent": -324000,
+          "spaceBefore": 1060,
+          "runs": [
+            {
+              "index": 1,
+              "text": "改进",
+              "fontSize": 16,
+              "typeface": "文泉驿正黑",
+              "color": "#333333",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "： 引入 ",
+              "fontSize": 16,
+              "typeface": "文泉驿正黑",
+              "color": "#333333"
+            },
+            {
+              "index": 3,
+              "text": "CNN/LSTM ",
+              "fontSize": 16,
+              "typeface": "文泉驿正黑",
+              "color": "#333333"
+            },
+            {
+              "index": 4,
+              "text": "深度模型。",
+              "fontSize": 16,
+              "typeface": "文泉驿正黑",
+              "color": "#333333"
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "数据： 增加气压计或磁力计数据。",
+          "bulletCharacter": "",
+          "marginLeft": 432000,
+          "indent": -324000,
+          "spaceBefore": 1060,
+          "runs": [
+            {
+              "index": 1,
+              "text": "数据",
+              "fontSize": 16,
+              "typeface": "文泉驿正黑",
+              "color": "#333333",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "： 增加气压计或磁力计数据。",
+              "fontSize": 16,
+              "typeface": "文泉驿正黑",
+              "color": "#333333"
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/8z25kb6x",
+      "id": "102",
+      "name": "图片 101",
+      "bbox": [
+        542.25,
+        134.59,
+        457.93,
+        343.45
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image19.png",
+        "contentType": "image/png",
+        "byteLength": 495271
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image19.png",
+        "contentType": "image/png",
+        "byteLength": 495271
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbulwva",
+      "id": "3",
+      "name": "PlaceHolder 2",
+      "bbox": [
+        774.8,
+        548.03,
+        245.67,
+        37.8
+      ],
+      "text": "14",
+      "textPreview": "14",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "14"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "14",
+          "runs": [
+            {
+              "index": 1,
+              "text": "14"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

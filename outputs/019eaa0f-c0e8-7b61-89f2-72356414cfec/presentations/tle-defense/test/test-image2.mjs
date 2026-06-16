@@ -1,0 +1,9 @@
+import fs from 'node:fs/promises';
+export async function slide01(presentation) {
+  const slide = presentation.slides.add();
+  slide.shapes.add({ geometry:'rect', position:{left:0,top:0,width:1280,height:720}, fill:'#fff', line:{fill:{type:'none'}} });
+  const p='/Users/macbook/Documents/数理统计大作业/outputs/figures/error_growth_median_iqr.png';
+  const b=await fs.readFile(p);
+  slide.images.add({ dataUrl:`data:image/png;base64,${b.toString('base64')}`, position:{left:100, top:100, width:600, height:400}, fit:'contain', alt:'growth' });
+  return slide;
+}

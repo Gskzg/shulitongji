@@ -1,0 +1,673 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/2x4nap4r",
+    "id": "2x4nap4r",
+    "slide": 2,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Blue_Curve",
+    "layoutType": "titleOnly",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1058.33,
+      "height": 595.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "LibreOffice",
+    "colors": {
+      "accent1": "#18A303",
+      "accent2": "#0369A3",
+      "accent3": "#A33E03",
+      "accent4": "#8E03A3",
+      "accent5": "#C99C00",
+      "accent6": "#C9211E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#000000",
+      "lt2": "#FFFFFF",
+      "hlink": "#0000EE",
+      "folHlink": "#551A8B"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Arial",
+        "eastAsianTypeface": "DejaVu Sans",
+        "complexScriptTypeface": "DejaVu Sans"
+      },
+      "minorFont": {
+        "latinTypeface": "Arial",
+        "eastAsianTypeface": "DejaVu Sans",
+        "complexScriptTypeface": "DejaVu Sans"
+      }
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Blue_Curve",
+      "type": "titleOnly",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "流程图: 文档 1",
+          "bbox": [
+            0,
+            472.44,
+            1058.27,
+            122.83
+          ],
+          "horizontalFlip": true,
+          "verticalFlip": true,
+          "geometry": "flowChartDocument",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "wrap": "none",
+            "autoFit": "none",
+            "insets": {
+              "top": 4.72,
+              "right": 9.45,
+              "bottom": 4.72,
+              "left": 9.45
+            }
+          },
+          "lineWidth": 1.89
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/8",
+          "id": "8",
+          "name": "PlaceHolder 1",
+          "bbox": [
+            0,
+            170.08,
+            944.88,
+            113.39
+          ],
+          "geometry": "rect",
+          "text": "单击以编辑标题文本格式",
+          "textPreview": "单击以编辑标题文本格式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击以编辑标题文本格式",
+              "indent": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击以编辑标题文本格式",
+                  "fontSize": 44,
+                  "typeface": "Arial",
+                  "color": "#DD4100"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/9",
+          "id": "9",
+          "name": "PlaceHolder 2",
+          "bbox": [
+            37.8,
+            302.36,
+            982.68,
+            170.08
+          ],
+          "geometry": "rect",
+          "text": "点击以编辑提纲文本格式\n第二提纲级别\n第三提纲级别\n第四提纲级别\n第五提纲级别\n第六提纲级别\n第七提纲级别",
+          "textPreview": "点击以编辑提纲文本格式 | 第二提纲级别 | 第三提纲级别 | 第四提纲级别 | 第五提纲级别 | 第六提纲级别 | 第七提纲级别",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "verticalAlignment": "top",
+            "autoFit": "shrinkText",
+            "autoFitScale": 0.85,
+            "autoFitLineSpaceReduction": 19999,
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "点击以编辑提纲文本格式",
+              "bulletCharacter": "",
+              "marginLeft": 432000,
+              "indent": -324000,
+              "spaceBefore": 1060,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "点击以编辑提纲文本格式",
+                  "fontSize": 32,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 864000,
+              "indent": -324000,
+              "spaceBefore": 850,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二提纲级别",
+                  "fontSize": 28,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 1296000,
+              "indent": -288000,
+              "spaceBefore": 635,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三提纲级别",
+                  "fontSize": 24,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 1728000,
+              "indent": -216000,
+              "spaceBefore": 422,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四提纲级别",
+                  "fontSize": 20,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 2160000,
+              "indent": -216000,
+              "spaceBefore": 210,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五提纲级别",
+                  "fontSize": 20,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 6,
+              "text": "第六提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 2592000,
+              "indent": -216000,
+              "spaceBefore": 210,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第六提纲级别",
+                  "fontSize": 20,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            },
+            {
+              "index": 7,
+              "text": "第七提纲级别",
+              "bulletCharacter": "",
+              "marginLeft": 3024000,
+              "indent": -216000,
+              "spaceBefore": 210,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第七提纲级别",
+                  "fontSize": 20,
+                  "typeface": "Arial",
+                  "color": "#009BDD"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/10",
+          "id": "10",
+          "name": "PlaceHolder 3",
+          "bbox": [
+            37.8,
+            548.03,
+            245.67,
+            37.8
+          ],
+          "geometry": "rect",
+          "text": "<日期/时间>",
+          "textPreview": "<日期/时间>",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "verticalAlignment": "top",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "<日期/时间>",
+              "indent": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "<日期/时间>",
+                  "fontSize": 18.67,
+                  "typeface": "Arial",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/11",
+          "id": "11",
+          "name": "PlaceHolder 4",
+          "bbox": [
+            359.06,
+            548.03,
+            340.16,
+            37.8
+          ],
+          "geometry": "rect",
+          "text": "<页脚>",
+          "textPreview": "<页脚>",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "verticalAlignment": "top",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "<页脚>",
+              "indent": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "<页脚>",
+                  "fontSize": 18.67,
+                  "typeface": "Arial",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/12",
+          "id": "12",
+          "name": "PlaceHolder 5",
+          "bbox": [
+            774.8,
+            548.03,
+            245.67,
+            37.8
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "verticalAlignment": "top",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "indent": 0,
+              "resolvedTextStyle": {
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›",
+                  "fontSize": 18.67,
+                  "typeface": "Arial",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9knih4by",
+      "id": "27",
+      "name": "PlaceHolder 1",
+      "bbox": [
+        0,
+        153.26,
+        944.88,
+        147.06
+      ],
+      "geometry": "rect",
+      "text": "WISDM 人体动作识别实验报告\n",
+      "textPreview": "WISDM 人体动作识别实验报告 |",
+      "resolvedFontSize": 44,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 44,
+        "typeface": "Arial",
+        "color": "#DD4100",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "WISDM 人体动作识别实验报告"
+          },
+          {
+            "index": 3,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "WISDM 人体动作识别实验报告\n",
+          "indent": 0,
+          "spaceBefore": 1191,
+          "spaceAfter": 992,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "WISDM ",
+              "fontSize": 56,
+              "typeface": "Arial",
+              "color": "#DD4100",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "人体动作识别实验报告",
+              "fontSize": 56,
+              "typeface": "Arial",
+              "color": "#DD4100",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "\n",
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "lineSpacingPercent": 90000
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2p8nqxs7",
+      "id": "28",
+      "name": "文本框 27",
+      "bbox": [
+        264.57,
+        245.67,
+        661.42,
+        83.11
+      ],
+      "geometry": "rect",
+      "text": "基于加速度计与陀螺仪的特征提取与分类对比",
+      "textPreview": "基于加速度计与陀螺仪的特征提取与分类对比",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.72,
+          "right": 9.45,
+          "bottom": 4.72,
+          "left": 9.45
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "基于加速度计与陀螺仪的特征提取与分类对比"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "基于加速度计与陀螺仪的特征提取与分类对比",
+          "runs": [
+            {
+              "index": 1,
+              "text": "基于加速度计与陀螺仪的特征提取与分类对比",
+              "fontSize": 29.33,
+              "typeface": "Arial",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 1.89
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ra5gbq1o",
+      "id": "29",
+      "name": "文本框 28",
+      "bbox": [
+        680.31,
+        529.13,
+        359.06,
+        56.69
+      ],
+      "geometry": "rect",
+      "text": "报告人：周啸天 宋博阳 孟祥占",
+      "textPreview": "报告人：周啸天 宋博阳 孟祥占",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.72,
+          "right": 9.45,
+          "bottom": 4.72,
+          "left": 9.45
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "报告人：周啸天 宋博阳 孟祥占"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "报告人：周啸天 宋博阳 孟祥占",
+          "runs": [
+            {
+              "index": 1,
+              "text": "报告人：周啸天 宋博阳 孟祥占",
+              "fontSize": 24,
+              "typeface": "Arial",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 1.89
+    }
+  ],
+  "composeRuns": []
+}

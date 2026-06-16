@@ -1,0 +1,1803 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/pjk5pt",
+    "id": "pjk5pt",
+    "slide": 4,
+    "layoutId": "746a77ab-08d6-474b-b423-2d3284b8185b",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ac4712e0-b97b-4e0d-8a11-dad0de981034",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "746a77ab-08d6-474b-b423-2d3284b8185b",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ac4712e0-b97b-4e0d-8a11-dad0de981034",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ac4712e0-b97b-4e0d-8a11-dad0de981034",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3ylc7u5",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji5snelo",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#08A8DC"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uxc3ylc7",
+      "id": "3",
+      "bbox": [
+        960,
+        0,
+        320,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#78D5EF"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cfa9w3m",
+      "id": "4",
+      "bbox": [
+        40,
+        13,
+        5,
+        32
+      ],
+      "geometry": "rect",
+      "fillColor": "#F05A28"
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/crmhk3q5",
+      "id": "5",
+      "bbox": [
+        56,
+        12,
+        850,
+        34
+      ],
+      "geometry": "rect",
+      "text": "原理二：同一目标时刻的两条轨道差分定义误差",
+      "textPreview": "原理二：同一目标时刻的两条轨道差分定义误差",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang SC",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "原理二：同一目标时刻的两条轨道差分定义误差"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "原理二：同一目标时刻的两条轨道差分定义误差",
+          "runs": [
+            {
+              "index": 1,
+              "text": "原理二：同一目标时刻的两条轨道差分定义误差",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6tovaho",
+      "id": "6",
+      "bbox": [
+        0,
+        668,
+        1280,
+        52
+      ],
+      "geometry": "rect",
+      "fillColor": "#78D5EF"
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulwval87",
+      "id": "7",
+      "bbox": [
+        0,
+        668,
+        930,
+        52
+      ],
+      "geometry": "rect",
+      "fillColor": "#08A8DC"
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18jqh0fe",
+      "id": "8",
+      "bbox": [
+        610,
+        681,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "4",
+      "textPreview": "4",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "PingFang SC",
+        "color": "#222831",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "PingFang SC",
+            "color": "#222831",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4",
+              "fontSize": 15,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "9",
+      "bbox": [
+        40,
+        635,
+        420,
+        20
+      ],
+      "geometry": "rect",
+      "text": "TLE/SGP4 轨道预报误差统计分析",
+      "textPreview": "TLE/SGP4 轨道预报误差统计分析",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "PingFang SC",
+        "color": "#607080",
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TLE/SGP4 轨道预报误差统计分析"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TLE/SGP4 轨道预报误差统计分析",
+          "runs": [
+            {
+              "index": 1,
+              "text": "TLE/SGP4 轨道预报误差统计分析",
+              "fontSize": 11,
+              "typeface": "PingFang SC",
+              "color": "#607080"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/al87ed8b",
+      "id": "10",
+      "bbox": [
+        74,
+        94,
+        1060,
+        30
+      ],
+      "geometry": "rect",
+      "text": "旧 TLE 传播到目标时刻 t* 形成预报位置；新 TLE 在 t* 附近传播到同一时刻形成参考位置。",
+      "textPreview": "旧 TLE 传播到目标时刻 t* 形成预报位置；新 TLE 在 t* 附近传播到同一时刻形成参考位置。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "PingFang SC",
+        "color": "#222831",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "旧 TLE 传播到目标时刻 t* 形成预报位置；新 TLE 在 t* 附近传播到同一时刻形成参考位置。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "旧 TLE 传播到目标时刻 t* 形成预报位置；新 TLE 在 t* 附近传播到同一时刻形成参考位置。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "旧 TLE 传播到目标时刻 t* 形成预报位置；新 TLE 在 t* 附近传播到同一时刻形成参考位置。",
+              "fontSize": 21,
+              "typeface": "PingFang SC",
+              "color": "#222831",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z61032ls",
+      "id": "11",
+      "bbox": [
+        80,
+        146,
+        1040,
+        248
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8E6EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orytsvu9",
+      "id": "12",
+      "bbox": [
+        160,
+        311,
+        838,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#1D5E8C"
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcrmhk3q",
+      "id": "13",
+      "bbox": [
+        994,
+        305,
+        14,
+        14
+      ],
+      "geometry": "triangle",
+      "fillColor": "#1D5E8C"
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "14",
+      "bbox": [
+        980,
+        322,
+        70,
+        22
+      ],
+      "geometry": "rect",
+      "text": "时间 t",
+      "textPreview": "时间 t",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "fontSize": 14.51,
+        "typeface": "PingFang SC",
+        "color": "#1D5E8C",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "时间 t"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "时间 t",
+          "runs": [
+            {
+              "index": 1,
+              "text": "时间 t",
+              "fontSize": 14.51,
+              "typeface": "PingFang SC",
+              "color": "#1D5E8C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zupwb2hw",
+      "id": "15",
+      "bbox": [
+        229,
+        216,
+        2,
+        118
+      ],
+      "geometry": "rect",
+      "fillColor": "#1D5E8C"
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfil0rqd",
+      "id": "16",
+      "bbox": [
+        628.5,
+        176,
+        3,
+        168
+      ],
+      "geometry": "rect",
+      "fillColor": "#F05A28"
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0fepkzu",
+      "id": "17",
+      "bbox": [
+        689,
+        230,
+        2,
+        104
+      ],
+      "geometry": "rect",
+      "fillColor": "#2B9C6A"
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65wjudg7",
+      "id": "18",
+      "bbox": [
+        565,
+        194,
+        190,
+        8
+      ],
+      "geometry": "rect",
+      "fillColor": "#F3CAB8"
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zqtcj6to",
+      "id": "19",
+      "bbox": [
+        581,
+        166,
+        170,
+        22
+      ],
+      "geometry": "rect",
+      "text": "参考 TLE 搜索窗：t* ± 12h",
+      "textPreview": "参考 TLE 搜索窗：t* ± 12h",
+      "resolvedFontSize": 13.51,
+      "resolvedTextStyle": {
+        "fontSize": 13.51,
+        "typeface": "PingFang SC",
+        "color": "#F05A28",
+        "bold": true,
+        "alignment": "center",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "参考 TLE 搜索窗：t* ±"
+          },
+          {
+            "index": 2,
+            "text": "12h"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "参考 TLE 搜索窗：t* ± 12h",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "PingFang SC",
+            "color": "#F05A28",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "参考 TLE 搜索窗：t* ± 12h",
+              "fontSize": 13.51,
+              "typeface": "PingFang SC",
+              "color": "#F05A28",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/byhgn29g",
+      "id": "20",
+      "bbox": [
+        172,
+        342,
+        116,
+        20
+      ],
+      "geometry": "rect",
+      "text": "t_i 旧TLE历元",
+      "textPreview": "t_i 旧TLE历元",
+      "resolvedFontSize": 13.51,
+      "resolvedTextStyle": {
+        "fontSize": 13.51,
+        "typeface": "PingFang SC",
+        "color": "#1D5E8C",
+        "alignment": "center",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "t_i 旧TLE历元"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "t_i 旧TLE历元",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "PingFang SC",
+            "color": "#1D5E8C",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "t_i 旧TLE历元",
+              "fontSize": 13.51,
+              "typeface": "PingFang SC",
+              "color": "#1D5E8C"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idonyd0z",
+      "id": "21",
+      "bbox": [
+        552,
+        342,
+        104,
+        20
+      ],
+      "geometry": "rect",
+      "text": "t* = t_i + h",
+      "textPreview": "t* = t_i + h",
+      "resolvedFontSize": 13.51,
+      "resolvedTextStyle": {
+        "fontSize": 13.51,
+        "typeface": "PingFang SC",
+        "color": "#F05A28",
+        "bold": true,
+        "alignment": "center",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "t* = t_i + h"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "t* = t_i + h",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "PingFang SC",
+            "color": "#F05A28",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "t* = t_i + h",
+              "fontSize": 13.51,
+              "typeface": "PingFang SC",
+              "color": "#F05A28",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t47y1kre",
+      "id": "22",
+      "bbox": [
+        668,
+        366,
+        118,
+        20
+      ],
+      "geometry": "rect",
+      "text": "t_j 新TLE历元",
+      "textPreview": "t_j 新TLE历元",
+      "resolvedFontSize": 13.51,
+      "resolvedTextStyle": {
+        "fontSize": 13.51,
+        "typeface": "PingFang SC",
+        "color": "#2B9C6A",
+        "alignment": "center",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "t_j 新TLE历元"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "t_j 新TLE历元",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "PingFang SC",
+            "color": "#2B9C6A",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "t_j 新TLE历元",
+              "fontSize": 13.51,
+              "typeface": "PingFang SC",
+              "color": "#2B9C6A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0je9cvix",
+      "id": "23",
+      "bbox": [
+        226,
+        282,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#08A8DC"
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b6xkf6dc",
+      "id": "24",
+      "bbox": [
+        356,
+        266,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#08A8DC"
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il0rqd4v",
+      "id": "25",
+      "bbox": [
+        230,
+        276.5,
+        130,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#AEDFF0"
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcj6tova",
+      "id": "26",
+      "bbox": [
+        496,
+        248,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#08A8DC"
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0rqd4vmt",
+      "id": "27",
+      "bbox": [
+        360,
+        259.5,
+        140,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#AEDFF0"
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi9s36hc",
+      "id": "28",
+      "bbox": [
+        624,
+        224,
+        12,
+        12
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#08A8DC"
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixczed8v",
+      "id": "29",
+      "bbox": [
+        500,
+        239.5,
+        130,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#AEDFF0"
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "30",
+      "bbox": [
+        756,
+        210,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#08A8DC"
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "31",
+      "bbox": [
+        630,
+        220.5,
+        130,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#AEDFF0"
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gvy90j",
+      "id": "32",
+      "bbox": [
+        896,
+        192,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#08A8DC"
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "33",
+      "bbox": [
+        760,
+        203.5,
+        140,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#AEDFF0"
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9knih",
+      "id": "34",
+      "bbox": [
+        556,
+        264,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F05A28"
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn29gr2",
+      "id": "35",
+      "bbox": [
+        624,
+        268,
+        12,
+        12
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F05A28"
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "36",
+      "bbox": [
+        560,
+        269.5,
+        70,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#F5B99B"
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "37",
+      "bbox": [
+        696,
+        278,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F05A28"
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sji5snel",
+      "id": "38",
+      "bbox": [
+        630,
+        276.5,
+        70,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#F5B99B"
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4byhgn2",
+      "id": "39",
+      "bbox": [
+        776,
+        288,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F05A28"
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0z61032",
+      "id": "40",
+      "bbox": [
+        700,
+        285.5,
+        80,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#F5B99B"
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6dcbul",
+      "id": "41",
+      "bbox": [
+        856,
+        296,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F05A28"
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9knih4",
+      "id": "42",
+      "bbox": [
+        780,
+        294.5,
+        80,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#F5B99B"
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29gr2p8n",
+      "id": "43",
+      "bbox": [
+        628.5,
+        230,
+        3,
+        44
+      ],
+      "geometry": "rect",
+      "fillColor": "#D94B3D"
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8bat47y",
+      "id": "44",
+      "bbox": [
+        505,
+        214,
+        108,
+        20
+      ],
+      "geometry": "rect",
+      "text": "r_pred(t*)",
+      "textPreview": "r_pred(t*)",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "PingFang SC",
+        "color": "#08A8DC",
+        "bold": true,
+        "alignment": "center",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "r_pred(t*)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "r_pred(t*)",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang SC",
+            "color": "#08A8DC",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "r_pred(t*)",
+              "fontSize": 14,
+              "typeface": "PingFang SC",
+              "color": "#08A8DC",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/knih4byh",
+      "id": "45",
+      "bbox": [
+        646,
+        276,
+        96,
+        20
+      ],
+      "geometry": "rect",
+      "text": "r_ref(t*)",
+      "textPreview": "r_ref(t*)",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "PingFang SC",
+        "color": "#F05A28",
+        "bold": true,
+        "alignment": "center",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "r_ref(t*)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "r_ref(t*)",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang SC",
+            "color": "#F05A28",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "r_ref(t*)",
+              "fontSize": 14,
+              "typeface": "PingFang SC",
+              "color": "#F05A28",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6psfil0",
+      "id": "46",
+      "bbox": [
+        586,
+        242,
+        58,
+        22
+      ],
+      "geometry": "rect",
+      "text": "e(t*)",
+      "textPreview": "e(t*)",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "PingFang SC",
+        "color": "#D94B3D",
+        "bold": true,
+        "alignment": "center",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "e(t*)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "e(t*)",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "PingFang SC",
+            "color": "#D94B3D",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "e(t*)",
+              "fontSize": 15,
+              "typeface": "PingFang SC",
+              "color": "#D94B3D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lszqtcj",
+      "id": "47",
+      "bbox": [
+        96,
+        424,
+        520,
+        132
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FAFDFF",
+      "lineColor": "#D8E6EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbulwva",
+      "id": "48",
+      "bbox": [
+        124,
+        440,
+        230,
+        24
+      ],
+      "geometry": "rect",
+      "text": "误差向量与标量误差",
+      "textPreview": "误差向量与标量误差",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#1D5E8C",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "误差向量与标量误差"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "误差向量与标量误差",
+          "runs": [
+            {
+              "index": 1,
+              "text": "误差向量与标量误差",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#1D5E8C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1w7mp",
+      "id": "49",
+      "bbox": [
+        124,
+        476,
+        360,
+        26
+      ],
+      "geometry": "rect",
+      "text": "e_{s,i,h} = r_pred(t*) - r_ref(t*)",
+      "textPreview": "e_{s,i,h} = r_pred(t*) - r_ref(t*)",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "PingFang SC",
+        "color": "#1D5E8C",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "e_{s,i,h} = r_pred(t*) - r_ref(t*)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "e_{s,i,h} = r_pred(t*) - r_ref(t*)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "e_{s,i,h} = r_pred(t*) - r_ref(t*)",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#1D5E8C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ytsvu9kn",
+      "id": "50",
+      "bbox": [
+        124,
+        510,
+        300,
+        26
+      ],
+      "geometry": "rect",
+      "text": "E_{s,i,h} = ||e_{s,i,h}||₂",
+      "textPreview": "E_{s,i,h} = ||e_{s,i,h}||₂",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "PingFang SC",
+        "color": "#F05A28",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "E_{s,i,h} = ||e_{s,i,h}||₂"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "E_{s,i,h} = ||e_{s,i,h}||₂",
+          "runs": [
+            {
+              "index": 1,
+              "text": "E_{s,i,h} = ||e_{s,i,h}||₂",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#F05A28",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/neloj2t8",
+      "id": "51",
+      "bbox": [
+        124,
+        536,
+        390,
+        18
+      ],
+      "geometry": "rect",
+      "text": "E 用于误差量级统计；e 向量保留方向信息。",
+      "textPreview": "E 用于误差量级统计；e 向量保留方向信息。",
+      "resolvedFontSize": 13.51,
+      "resolvedTextStyle": {
+        "fontSize": 13.51,
+        "typeface": "PingFang SC",
+        "color": "#222831",
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "E 用于误差量级统计；e 向量保留方向信息。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "E 用于误差量级统计；e 向量保留方向信息。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "E 用于误差量级统计；e 向量保留方向信息。",
+              "fontSize": 13.51,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/czed8v6p",
+      "id": "52",
+      "bbox": [
+        670,
+        424,
+        420,
+        132
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFF8F4",
+      "lineColor": "#F3CAB8",
+      "lineWidth": 1
+    },
+    {
+      "order": 53,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5kb6xkf6",
+      "id": "53",
+      "bbox": [
+        698,
+        440,
+        120,
+        24
+      ],
+      "geometry": "rect",
+      "text": "RIC 分解",
+      "textPreview": "RIC 分解",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#F05A28",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "RIC 分解"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "RIC 分解",
+          "runs": [
+            {
+              "index": 1,
+              "text": "RIC 分解",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#F05A28",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 54,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u54zidon",
+      "id": "54",
+      "bbox": [
+        698,
+        476,
+        330,
+        24
+      ],
+      "geometry": "rect",
+      "text": "e_RIC = C_TEME→RIC · e",
+      "textPreview": "e_RIC = C_TEME→RIC · e",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#1D5E8C",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "e_RIC = C_TEME→RIC · e"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "e_RIC = C_TEME→RIC · e",
+          "runs": [
+            {
+              "index": 1,
+              "text": "e_RIC = C_TEME→RIC · e",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#1D5E8C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 55,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqxs72x4",
+      "id": "55",
+      "bbox": [
+        698,
+        504,
+        220,
+        24
+      ],
+      "geometry": "rect",
+      "text": "= [e_R, e_I, e_C]ᵀ",
+      "textPreview": "= [e_R, e_I, e_C]ᵀ",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#1D5E8C",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "= [e_R, e_I, e_C]ᵀ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "= [e_R, e_I, e_C]ᵀ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "= [e_R, e_I, e_C]ᵀ",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#1D5E8C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 56,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbulwval",
+      "id": "56",
+      "bbox": [
+        698,
+        532,
+        320,
+        20
+      ],
+      "geometry": "rect",
+      "text": "R 径向、I 沿迹、C 法向；用于估计协方差 Σ_{g,h}。",
+      "textPreview": "R 径向、I 沿迹、C 法向；用于估计协方差 Σ_{g,h}。",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "PingFang SC",
+        "color": "#222831",
+        "alignment": "left",
+        "wrap": "square",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R 径向、I 沿迹、C 法向；用于估计协方差"
+          },
+          {
+            "index": 2,
+            "text": "Σ_{g,h}。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R 径向、I 沿迹、C 法向；用于估计协方差 Σ_{g,h}。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "R 径向、I 沿迹、C 法向；用于估计协方差 Σ_{g,h}。",
+              "fontSize": 14,
+              "typeface": "PingFang SC",
+              "color": "#222831"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

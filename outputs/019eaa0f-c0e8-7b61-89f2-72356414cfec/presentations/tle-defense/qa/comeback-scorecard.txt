@@ -1,0 +1,37 @@
+QA scorecard for TLE_SGP4_预报误差答辩.pptx
+
+Final deck:
+/Users/macbook/Documents/数理统计大作业/reports/TLE_SGP4_预报误差答辩.pptx
+
+Scores:
+- Structure and story: 9/10
+- Consistency with reference deck style: 9/10
+- Statistical content coverage: 9/10
+- Visual readability: 9/10
+- Technical package check: 10/10
+
+Verification:
+- Built successfully as a 12-slide PPTX.
+- Package check found 12 slide XML files.
+- Four chart images are embedded in ppt/media.
+- Contact sheet preview reviewed manually.
+- Slide 09 was specifically reviewed after the overlap fix.
+- Filtered layout check found no text-text overlap, overflow, or off-slide records.
+
+Revision on 2026-06-14:
+- Reordered the deck narrative to 原理 -> 数据与结论 -> 总结.
+- Slides 02-05 now explain the defense route, TLE/SGP4 principle, differential error construction, and statistical method chain before results.
+- Slides 06-10 now present data construction and four conclusions in sequence.
+- Slide 11 was revised to separate covariance propagation from limitation notes; filtered layout check found no remaining real overlap.
+
+Principle-section revision:
+- Slides 02-05 were rebuilt from simple block-and-arrow layouts into paper-style conceptual diagrams.
+- Added indexed notation for target, epoch, forecast horizon, orbit type, and bootstrap resampling.
+- Added formulas for SGP4 propagation, same-time residuals, scalar error norm, RIC decomposition, growth-law fitting, bootstrap intervals, covariance, and nonparametric tests.
+- Final filtered layout check found no text-text overlap, overflow, or off-slide records.
+
+Accepted layout checker noise:
+- The remaining checker errors are false positives from editable table rows:
+  row background rectangles contain separate text boxes, so the checker reports
+  low bottom padding and split-inline table cells even though the preview is
+  visually aligned.

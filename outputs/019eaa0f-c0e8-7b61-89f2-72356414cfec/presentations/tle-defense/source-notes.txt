@@ -1,0 +1,18 @@
+Primary content sources:
+- /Users/macbook/Documents/数理统计大作业/reports/final_report.md
+- /Users/macbook/Documents/数理统计大作业/outputs/tables/summary.csv
+- /Users/macbook/Documents/数理统计大作业/outputs/tables/bootstrap_ci.csv
+- /Users/macbook/Documents/数理统计大作业/outputs/tables/growth_fit.csv
+- /Users/macbook/Documents/数理统计大作业/outputs/tables/group_tests.csv
+- /Users/macbook/Documents/数理统计大作业/outputs/tables/pairwise_mannwhitney_holm.csv
+- /Users/macbook/Documents/数理统计大作业/outputs/figures/error_boxplot_by_orbit_horizon.png
+- /Users/macbook/Documents/数理统计大作业/outputs/figures/error_growth_median_iqr.png
+- /Users/macbook/Documents/数理统计大作业/outputs/figures/error_distribution_log10.png
+- /Users/macbook/Documents/数理统计大作业/outputs/figures/ci_gaussian_vs_bootstrap.png
+
+Reference deck:
+- /Users/macbook/Documents/数理统计大作业/答辩.pptx
+- Used only as a visual style reference for classroom defense rhythm, blue bars, title treatment, and footer/page markers.
+
+Identity assets:
+- None. No logos, official marks, or brand-like assets are created or embedded.

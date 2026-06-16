@@ -1,0 +1,34 @@
+Thesis:
+TLE/SGP4 short-term forecast errors grow quickly and unevenly by orbit type; bootstrap intervals and nonparametric tests give a more faithful uncertainty picture than Gaussian-only summaries.
+
+Audience:
+Numerical statistics course defense, instructors and classmates.
+
+One-line arc:
+Start from the practical prediction problem, show how historical TLEs become error samples, then prove error growth, uncertainty, and orbit-type differences with statistical evidence.
+
+Slide list:
+1. Title: We quantify how fast public TLE/SGP4 forecasts drift.
+   Proof object: data-period and sample metric rail.
+2. Research problem: The key statistical object is forecast error over 1/3/7 days.
+   Proof object: problem statement and contribution stack.
+3. Data: 75 targets provide a balanced LEO/MEO/GEO experiment.
+   Proof object: sample construction and counts.
+4. Method: Each sample pairs an old TLE forecast with a newer TLE reference.
+   Proof object: method pipeline with formula.
+5. Results overview: GEO has the largest typical error, while LEO has the longest tail.
+   Proof object: summary statistics table.
+6. Distribution: Mean and RMSE are pulled upward by extreme forecast failures.
+   Proof object: boxplot and log distribution figures.
+7. Growth law: Median error grows approximately as a power law.
+   Proof object: growth curve and fitted exponent table.
+8. Bootstrap: BCa intervals expose asymmetric uncertainty under long-tailed errors.
+   Proof object: CI comparison figure and interval table.
+9. Group tests: Orbit type differences are statistically significant at every horizon.
+   Proof object: Kruskal-Wallis and pairwise comparison matrix.
+10. Covariance: Empirical covariance provides the matrix form of uncertainty growth.
+    Proof object: covariance propagation equation and output file map.
+11. Discussion: The long tail is not a nuisance; it is the operational risk.
+    Proof object: cause/limitation matrix.
+12. Conclusion: The project delivers an end-to-end statistical pipeline and clear orbit-type findings.
+    Proof object: three key takeaways and Q&A.
