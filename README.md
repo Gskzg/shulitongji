@@ -148,6 +148,6 @@ python scripts/run_pipeline.py \
 python scripts/compute_errors.py --input data/raw --orbit-types
 ```
 
-## 8. 报告模板
+## 8. 报告
 
-见 `reports/report_template.md`。运行完分析后，把 `outputs/tables` 和 `outputs/figures` 中的结果填入模板即可。
+见 `reports/报告.md`。
